@@ -58,5 +58,29 @@ PID TTY       TIME CMD
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # RESULT:
 The programs are executed successfully.
